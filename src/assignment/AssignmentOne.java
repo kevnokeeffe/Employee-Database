@@ -374,7 +374,6 @@ public class AssignmentOne {
 		f.pack();
 	}
 
-	
 	public void run() {
 		// Run the connection to MySQL
 		try {
@@ -385,7 +384,5 @@ public class AssignmentOne {
 			e.printStackTrace();
 			return;
 		}
-	}
-	
-	
+	}	
 }
